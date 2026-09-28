@@ -4,7 +4,7 @@ An interactive Personal Finance Dashboard built using Python, Pandas, Plotly, an
 
 🚀 Features
 
-- 📁 Upload bank statement CSV
+- 📁 Upload bank statement CSV.
 - 💵 Calculate total income and expenses
 - 💰 Calculate overall and filtered balance
 - 🔎 Filter transactions by date, type, and category
